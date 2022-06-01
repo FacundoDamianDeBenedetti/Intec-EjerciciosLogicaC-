@@ -1,0 +1,16 @@
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\bin\Debug\net5.0\Contador_vocales.exe
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\bin\Debug\net5.0\Contador_vocales.deps.json
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\bin\Debug\net5.0\Contador_vocales.runtimeconfig.json
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\bin\Debug\net5.0\Contador_vocales.runtimeconfig.dev.json
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\bin\Debug\net5.0\Contador_vocales.dll
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\bin\Debug\net5.0\ref\Contador_vocales.dll
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\bin\Debug\net5.0\Contador_vocales.pdb
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\obj\Debug\net5.0\Contador_vocales.csproj.AssemblyReference.cache
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\obj\Debug\net5.0\Contador_vocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\obj\Debug\net5.0\Contador_vocales.AssemblyInfoInputs.cache
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\obj\Debug\net5.0\Contador_vocales.AssemblyInfo.cs
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\obj\Debug\net5.0\Contador_vocales.csproj.CoreCompileInputs.cache
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\obj\Debug\net5.0\Contador_vocales.dll
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\obj\Debug\net5.0\ref\Contador_vocales.dll
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\obj\Debug\net5.0\Contador_vocales.pdb
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Contador_vocales\obj\Debug\net5.0\Contador_vocales.genruntimeconfig.cache

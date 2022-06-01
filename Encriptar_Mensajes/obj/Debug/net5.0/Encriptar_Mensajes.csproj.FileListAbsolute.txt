@@ -1,0 +1,16 @@
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\bin\Debug\net5.0\Encriptar_Mensajes.exe
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\bin\Debug\net5.0\Encriptar_Mensajes.deps.json
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\bin\Debug\net5.0\Encriptar_Mensajes.runtimeconfig.json
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\bin\Debug\net5.0\Encriptar_Mensajes.runtimeconfig.dev.json
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\bin\Debug\net5.0\Encriptar_Mensajes.dll
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\bin\Debug\net5.0\ref\Encriptar_Mensajes.dll
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\bin\Debug\net5.0\Encriptar_Mensajes.pdb
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\obj\Debug\net5.0\Encriptar_Mensajes.csproj.AssemblyReference.cache
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\obj\Debug\net5.0\Encriptar_Mensajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\obj\Debug\net5.0\Encriptar_Mensajes.AssemblyInfoInputs.cache
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\obj\Debug\net5.0\Encriptar_Mensajes.AssemblyInfo.cs
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\obj\Debug\net5.0\Encriptar_Mensajes.csproj.CoreCompileInputs.cache
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\obj\Debug\net5.0\Encriptar_Mensajes.dll
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\obj\Debug\net5.0\ref\Encriptar_Mensajes.dll
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\obj\Debug\net5.0\Encriptar_Mensajes.pdb
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Encriptar_Mensajes\obj\Debug\net5.0\Encriptar_Mensajes.genruntimeconfig.cache

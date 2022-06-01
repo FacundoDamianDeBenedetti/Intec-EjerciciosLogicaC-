@@ -1,0 +1,16 @@
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\bin\Debug\net5.0\Anagrama.exe
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\bin\Debug\net5.0\Anagrama.deps.json
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\bin\Debug\net5.0\Anagrama.runtimeconfig.json
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\bin\Debug\net5.0\Anagrama.runtimeconfig.dev.json
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\bin\Debug\net5.0\Anagrama.dll
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\bin\Debug\net5.0\ref\Anagrama.dll
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\bin\Debug\net5.0\Anagrama.pdb
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\obj\Debug\net5.0\Anagrama.csproj.AssemblyReference.cache
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\obj\Debug\net5.0\Anagrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\obj\Debug\net5.0\Anagrama.AssemblyInfoInputs.cache
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\obj\Debug\net5.0\Anagrama.AssemblyInfo.cs
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\obj\Debug\net5.0\Anagrama.csproj.CoreCompileInputs.cache
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\obj\Debug\net5.0\Anagrama.dll
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\obj\Debug\net5.0\ref\Anagrama.dll
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\obj\Debug\net5.0\Anagrama.pdb
+C:\Users\fddb\source\repos\Encriptar_Mensajes\Anagrama\obj\Debug\net5.0\Anagrama.genruntimeconfig.cache
